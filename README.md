@@ -202,13 +202,9 @@ SmartHome-AI-Booking-System/
 
 ## Team Information
 
-| Name           | Role                  | Contribution                          |
-|----------------|-----------------------|---------------------------------------|
-| Arjun Mehta    | Full Stack Developer  | MERN architecture, API integration    |
-| Priya Sharma   | UI/UX Designer        | Glassmorphism UI, responsive layouts  |
-| Rahul Verma    | AI/ML Engineer        | Recommendation engine, chat assistant |
-| Kavita Singh   | Backend Engineer      | Database models, auth, admin APIs     |
-
+| Name           | Role                  |
+|----------------|-----------------------|
+| Karri Naga Hari Kiran Reddy   | Full Stack Developer  |
 **Repository:** [harireddy2428/SmartHome-AI-Booking-System](https://github.com/harireddy2428/SmartHome-AI-Booking-System)
 
 ---
