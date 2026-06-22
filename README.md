@@ -186,20 +186,6 @@ SmartHome-AI-Booking-System/
 
 ---
 
-## Screenshots
-
-> Add screenshots of your application here after deployment or local capture.
-
-| Landing Page | Customer Dashboard | AI Recommendations |
-|:------------:|:------------------:|:------------------:|
-| _Screenshot_ | _Screenshot_       | _Screenshot_       |
-
-| Worker Dashboard | Admin Panel | AI Chat Widget |
-|:----------------:|:-----------:|:--------------:|
-| _Screenshot_     | _Screenshot_| _Screenshot_   |
-
----
-
 ## Team Information
 
 | Name           | Role                  |
