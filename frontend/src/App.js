@@ -9,7 +9,7 @@ import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
 import ServicesPage from './pages/ServicesPage';
 import AboutPage from './pages/AboutPage';
-import ContactPage from './pages/ContactPage';
+import ContactPage from './pages/ContactPage':
 import CustomerDashboard from './pages/CustomerDashboard';
 import WorkerDashboard from './pages/WorkerDashboard';
 import AdminDashboard from './pages/AdminDashboard';
